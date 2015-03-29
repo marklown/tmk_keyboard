@@ -38,6 +38,8 @@
 # To rebuild project do "make clean" then "make all".
 #----------------------------------------------------------------------------
 
+KEYMAP = mark
+
 # Target file name (without extension).
 TARGET = gh60_lufa
 
